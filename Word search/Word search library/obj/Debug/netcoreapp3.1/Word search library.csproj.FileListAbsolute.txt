@@ -1,0 +1,10 @@
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\bin\Debug\netcoreapp3.1\Word search library.deps.json
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\bin\Debug\netcoreapp3.1\Word search library.dll
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\bin\Debug\netcoreapp3.1\Word search library.pdb
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.csproj.AssemblyReference.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.AssemblyInfoInputs.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.AssemblyInfo.cs
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.csproj.CoreCompileInputs.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.dll
+C:\Users\leotu\source\repos\Word-search\Word search\Word search library\obj\Debug\netcoreapp3.1\Word search library.pdb

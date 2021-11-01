@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Word search app/1.0.0": {
+        "runtime": {
+          "Word search app.dll": {}
+        }
+      },
+      "Word search library/1.0.0": {
+        "runtime": {
+          "Word search library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Word search app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Word search library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

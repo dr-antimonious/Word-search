@@ -1,0 +1,17 @@
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.exe
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.deps.json
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.runtimeconfig.json
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.runtimeconfig.dev.json
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.dll
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search app.pdb
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search library.dll
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\bin\Debug\netcoreapp3.1\Word search library.pdb
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.csproj.AssemblyReference.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.AssemblyInfoInputs.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.AssemblyInfo.cs
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.csproj.CoreCompileInputs.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.dll
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.pdb
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.genruntimeconfig.cache
+C:\Users\leotu\source\repos\Word-search\Word search\Word search app\obj\Debug\netcoreapp3.1\Word search app.csproj.CopyComplete
